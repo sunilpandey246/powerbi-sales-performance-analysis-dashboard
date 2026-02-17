@@ -35,6 +35,11 @@ Using this data model, we can analyze:
 ## 🎯 Objective  
 
 The goal of this project is to build a clean and optimized data model that supports efficient reporting and interactive dashboard creation in Power BI.
+
+---
+
+<img width="1168" height="425" alt="image" src="https://github.com/user-attachments/assets/51d992e7-4344-4564-ace0-cbe0e9d72a6b" />
+
  
 
 

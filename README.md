@@ -1,10 +1,9 @@
 ### Power BI STAR Schema Data Model – Sales & Returns Analysis
 
-- Designed and implemented a STAR Schema-based data model in Power BI for Sales & Returns analysis.  
+- Designed and implemented a **STAR Schema**-based data model in Power BI for Sales & Returns analysis.  
 - Established optimized one-to-many (1:*) relationships between fact and dimension tables to ensure accurate aggregation and filtering.  
 - Structured fact and lookup tables to improve report performance and scalability.  
 - Enabled analysis of sales trends, customer segmentation, product performance, and return metrics.  
-- Applied DAX measures and relationship management techniques to build dynamic, interactive dashboards.  
 - Demonstrated strong expertise in data modeling, schema design, and business intelligence reporting.
 
 

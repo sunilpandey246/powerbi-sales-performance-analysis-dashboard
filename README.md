@@ -14,6 +14,13 @@
 <img width="905" height="398" alt="image" src="https://github.com/user-attachments/assets/34162a96-976b-44be-9a71-1e86605aa3fb" />
 
 ---
+# 🌍 Global Performance Analysis Dashboard – Power BI
+
+## 📌 Overview
+This Power BI dashboard features an interactive world map with region filters (Select All, Europe, North America, Pacific). It highlights key countries like the United States, Canada, United Kingdom, France, Germany, and Australia using bubble size comparison.
+
+## 🎯 Purpose
+Enables quick regional filtering and easy performance comparison across continents.
 
 <img width="874" height="404" alt="image" src="https://github.com/user-attachments/assets/61318604-394d-4ca4-ae28-17129a0667f3" />
 

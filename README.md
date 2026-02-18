@@ -52,7 +52,6 @@ To monitor overall business performance, track sales and profit growth, analyze 
 
 ---
 <img width="895" height="402" alt="image" src="https://github.com/user-attachments/assets/0967645c-ba56-438c-a05e-1d84f36d3d6a" />
-
 ---
 
 

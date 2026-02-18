@@ -9,6 +9,7 @@
 ### Target vs Actual Analysis
 This Power BI dashboard represents a **Sales & Product Performance Analysis**.  
 It tracks key KPIs such as **Orders, Revenue, and Profit** against targets, along with **Profit and Return trends** to evaluate overall business performance.
+
 <img width="905" height="398" alt="image" src="https://github.com/user-attachments/assets/34162a96-976b-44be-9a71-1e86605aa3fb" />
 
 ---

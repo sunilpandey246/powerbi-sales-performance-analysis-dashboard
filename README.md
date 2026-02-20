@@ -18,10 +18,10 @@ To improve report performance, scalability, and data accuracy while demonstratin
 <img width="905" height="398" alt="image" src="https://github.com/user-attachments/assets/34162a96-976b-44be-9a71-1e86605aa3fb" />
 
 ---
-# 🌍 Global Performance Analysis Dashboard – Power BI
+# 🌍 Global Performance Analysis Bubble Map – Power BI
 
 ## 📌 Overview
-This Power BI dashboard features an interactive world map with region filters (Select All, Europe, North America, Pacific). It highlights key countries like the United States, Canada, United Kingdom, France, Germany, and Australia using bubble size comparison.
+This Power BI Bubble Map features an interactive world map with region filters (Select All, Europe, North America, Pacific). It highlights key countries like the United States, Canada, United Kingdom, France, Germany, and Australia using bubble size comparison.
 
 ## 🎯 Purpose
 Enables quick regional filtering and easy performance comparison across continents.
